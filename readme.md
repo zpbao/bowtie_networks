@@ -22,7 +22,7 @@ Our code is based on the awesome work of [Hologan](https://github.com/thunguyenp
 ## Citation
 
 ```
-@inproceedings{bao2021botie,
+@inproceedings{bao2021bowtie,
     Author = {Zhipeng Bao, Yu-Xiong Wang and Martial Hebert},
     Title = {Bowtie Networks: Generative modeling for joint few-shot recognition and novel-view synthesis},
     Booktitle = {ICLR},
